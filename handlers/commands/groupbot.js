@@ -1,12 +1,12 @@
 let cap = `Join Group Bot untuk info ter-update
 
-• *Telegram Channel* : https://t.me/info_mg
-• *WhatsApp Group 1* : https://chat.whatsapp.com/KSupzi0Ez28AxNkViVaJfy
-• *WhatsApp Group 2* : https://chat.whatsapp.com/DJFe116CDyb26pb2pYDoy2
+• *Telegram Channel* : Gaada
+• *WhatsApp Group 1* : https://tinyurl.com/ya4dpmdv
+• *WhatsApp Group 2* : https://chat.whatsapp.com/GaRWLEYSSQO8Vof0uHOrGp
 `
 const buttonsDefault = [
-    { urlButton: { displayText: `🛎 Telegram Bot`, url: `https://t.me/tikdl_bot` } },
-    { urlButton: { displayText: `💈 Instagram`, url: 'https://www.instagram.com/mg.bot' } },
+    { urlButton: { displayText: `🛎 Telegram  Bot`, url: `https://t.me/tikdl_bot` } },
+    { urlButton: { displayText: `💈 Instagram`, url: 'https://www.instagram.com/leonvx._' } },
 ]
 
 module.exports = {

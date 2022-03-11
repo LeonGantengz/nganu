@@ -80,8 +80,8 @@ module.exports = {
         ].join('\n')
 
         const buttonsDefault = [
-            { urlButton: { displayText: `🍴 Source Code`, url: package.repository.url } },
-            { urlButton: { displayText: `💌 Telegram Bot`, url: `https://t.me/tikdl_bot` } },
+            { urlButton: { displayText: `🍴 Source Code`, url: `https://youtube.com/c/LeonGanz` } },
+            { urlButton: { displayText: `💌 Official Website`, url: `https://bl4ck-lion.github.io/index.php` } },
             { quickReplyButton: { displayText: `☎ Owner`, id: `${prefix}owner` } },
         ]
         client.sendMessage(m.chat, {
